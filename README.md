@@ -29,3 +29,7 @@ button on the Plugins page and navigating to the .kpz file you downloaded
 ## Authors
 
 * Andrew Isherwood
+
+## Licence
+
+This plugin is licensed under the GNU Affero General Public License v3.0 or later (`AGPL-3.0-or-later`). See [LICENSE](LICENSE).
