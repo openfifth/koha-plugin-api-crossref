@@ -6,7 +6,7 @@
     "module": "Koha::Plugin::Com::PTFSEurope::Crossref",
     "pm_path": "Koha/Plugin/Com/PTFSEurope/Crossref.pm"
   },
-  "version": "1.1.0",
+  "version": "1.1.1",
   "previous_version": "1.1.0",
   "scripts": {
     "version:patch": "node increment_version.js patch | cat",

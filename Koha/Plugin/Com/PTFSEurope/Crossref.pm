@@ -28,13 +28,13 @@ use LWP::UserAgent;
 use HTTP::Request;
 use JSON qw( encode_json decode_json );
 
-our $VERSION         = '1.1.0';
+our $VERSION         = '1.1.1';
 
 our $metadata = {
     name            => 'Crossref',
     author          => 'Andrew Isherwood',
     date_authored   => '2022-04-20',
-    date_updated    => "2022-04-20",
+    date_updated    => '2026-11-05',
     minimum_version => '18.05.00.000',
     maximum_version => undef,
     version         => $VERSION,
